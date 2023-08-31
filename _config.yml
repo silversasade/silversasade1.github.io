@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "silversasade's Personal HomePage"
+title                    : "个人主页"
 title_separator          : "-"
 name                     : &name "SILVERSASADE"
 description              : &description "Even I lost my life,I don't want lost my soul"
