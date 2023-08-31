@@ -83,13 +83,13 @@ author:
   name             : "silversasade"
   avatar           : "photo.png"
   bio              : "这句话是我的一个自我介绍"
-  location         : "Location"
+  location         : "河北省"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  "https://silversasade1.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
