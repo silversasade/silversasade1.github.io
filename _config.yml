@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "silversasade's Personal HomePage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "SILVERSASADE"
+description              : &description "Even I lost my life,I don't want lost my soul"
 url                      : https://silversasade.github.io/silversasade1.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "silversasade"
   avatar           : "photo.png"
-  bio              : "这句话是我的一个自我介绍"
+  bio              : "Even I lost my life,I don't want lost my soul"
   location         : "河北省"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :  "https://silversasade.github.io/silversasade1.github.io"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
