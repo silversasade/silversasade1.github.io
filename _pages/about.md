@@ -23,13 +23,11 @@ redirect_from:
 
 **员工管理效果：**
 
-<img src="assets/image-20221112172846316.png" alt="image-20221112172846316" style="zoom:50%;" /> 
 
 
 
 **菜品分类管理效果：**
 
-<img src="assets/image-20221112172925354.png" alt="image-20221112172925354" style="zoom:50%;" /> 
 
 
 
@@ -45,5 +43,4 @@ redirect_from:
 
 **新增员工原型：**
 
-<img src="assets/image-20221111161120975.png" alt="image-20221111161120975" style="zoom: 50%;" /> 
 
