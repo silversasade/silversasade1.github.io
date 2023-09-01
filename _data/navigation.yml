@@ -1,16 +1,16 @@
 # main links links
-main:
-  - title: "社会活动"
-    url: /publications/
+#main:
+#  - title: "社会活动"
+#    url: /publications/
+#
+#  - title: "专业实践"
+#    url: /talks/    
 
-  - title: "专业实践"
-    url: /talks/    
-
-  - title: "专业技能"
-    url: /teaching/    
+#  - title: "专业技能"
+#    url: /teaching/    
     
-  - title: "专业搏客"
-    url: /portfolio/
+#  - title: "专业搏客"
+#    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
